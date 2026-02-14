@@ -14,7 +14,7 @@ To develop and learn about Operating Systems I am using [this](https://wiki.osde
 I understand this is a massive project that will take a long time, as such please have patience with me.
 
 ## Language
-Currently considering using and learning Zig for implementations.
+Currently considering using and learning Rust for implementations.
 
 ## Schedule
 I plan to only work on this project during weekends (Sat-Sun) and to only allocate no more than 3 hours (Usually in the morning) of my freetime per day.
